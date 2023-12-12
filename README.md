@@ -1,3 +1,3 @@
 # kachitoritai
 
-this is a web for demo.
+this is a website for demo.
